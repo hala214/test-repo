@@ -37,4 +37,6 @@ class Ultrasonic:
         echo_time = msec / 1000000
         dist_cm = (echo_time / 2) * 34300
         return dist_cm
+    print ("hello")
+    print ("what is ur name ?")
 
