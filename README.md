@@ -1,3 +1,4 @@
 # test-repo
 demo repo for testing 
-![emoji](download.jpg)
+
+<img src="download.jpg" alt="emoji">
